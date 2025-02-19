@@ -9,7 +9,7 @@
 
 
 //I did that wrong but I dont want to delete it
-//ingredients:if statements, while loops, variables to change += ops, true false booleans.
+//ingredients:if statements, while loops, variables to change += ops, true false booleans. a way to convert the time numbers to strings to display time
 //instructions:set variables. set the start of the clock with the while.
 //implement if statements for if a minute is reached set seconds to 0 and += minutes by 1
 //same for minutes to hours.
